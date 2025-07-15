@@ -1,0 +1,6 @@
+
+gradio>=4.6
+transformers>=4.41
+sentencepiece>=0.2
+PyMuPDF==1.23.24
+torch
